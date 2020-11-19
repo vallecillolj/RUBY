@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ruby.Program">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ruby.Player">
+    <Position X="11.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ruby.Merchant">
+    <Position X="10" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAACAAAAAAAgAAgAAAAA=</HashCode>
+      <FileName>Merchant.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ruby.Location">
+    <Position X="8.25" Y="2.5" Width="1.5" />
+    <NestedTypes>
+      <Class Name="Ruby.Location.Objects" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Location.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Ruby.Location.Item" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Location.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Class Name="Ruby.Location.Desc" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Location.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAAABAgAAAQAAAIIgAAAEgAAAIAAABAAAAAAgAAA=</HashCode>
+      <FileName>Location.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ruby.Objects">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ruby.Item">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ruby.Desc">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ruby.Cost">
+    <Position X="11.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Cost.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
